@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9/Agv8LebLg+Vl+tIfcl6z5ZWyb02JxGuXccUEwPnatYdaaPE2oTN1Ny3lVM+aXYjLX3z6hPS5BgAJtw1v1sbA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mehmet\\Desktop\\UdemyBlogFront\\UdemyBlogFront.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mehmet\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
